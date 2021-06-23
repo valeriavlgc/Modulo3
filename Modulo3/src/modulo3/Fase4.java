@@ -47,6 +47,7 @@ char[] ciutat6 = new char[city6.length()];
 		}
 		    System.out.println();
 
+//Opción Collections.reverse();		    
 	}
 
 }
